@@ -1,8 +1,3 @@
 # stepik-auto-tests
-stepik homework
-
-test
-test
-test
-test
-test
+Тестовый репозиторий для задания. 
+https://stepik.org/course/575
