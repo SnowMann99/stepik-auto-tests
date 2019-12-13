@@ -1,4 +1,8 @@
 # stepik-auto-tests
 stepik homework
 
-testing 
+test
+test
+test
+test
+test
